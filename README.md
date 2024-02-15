@@ -40,3 +40,6 @@
 
 ## 12. Farmer Market Palembang
 - SJ yang dikirim tanggal 126 PCs belum diinput di J-Stock
+
+## 13. Hero Pasir Kaliki
+- SJ tanggal 6 februari belum di input di store
