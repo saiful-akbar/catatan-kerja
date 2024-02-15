@@ -37,3 +37,6 @@
 
 ## 11. Yogya Junction Cirebon
 - Stok awal februari pada modul `Monthly Report` kosong, padahan SO sudah dipilih sari daily stock.
+
+## 12. Farmer Market Palembang
+- SJ yang dikim tanggal 126 PCs belum diinput di J-Stock
