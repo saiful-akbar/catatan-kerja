@@ -30,7 +30,7 @@
 ## 9. Farmer Market Makasar Pettarani Square
 - Return yang diterima tangg 30 januari di gudang di input tanggal 1, 2, 9 & 13 februari (4x input)
 
-## 10. Farmer Market Jabaeka Cikarang
+## 10. Farmer Market Jababeka Cikarang
 - Salah input stok pulang tanggal 12 februari
 - diinput: `HTE530S3 = 95 PCs`
 - seharusnya: `HTE530S3 = 5 PCs`
@@ -39,4 +39,4 @@
 - Stok awal februari pada modul `Monthly Report` kosong, padahan SO sudah dipilih sari daily stock.
 
 ## 12. Farmer Market Palembang
-- SJ yang dikim tanggal 126 PCs belum diinput di J-Stock
+- SJ yang dikirim tanggal 126 PCs belum diinput di J-Stock
