@@ -27,10 +27,10 @@
 - [ ] Return bulan januari di input tanggal 4 februari.
 
 ## 9. Farmer Market Makasar Pettarani Square
-- [ ] Return yang diterima tanggal 30 januari di gudang di input tanggal 1, 2, 9 & 13 februari (4x input)
+- [x] Return yang diterima tanggal 30 januari di gudang di input tanggal 1, 2, 9 & 13 februari (4x input)
 
 ## 10. Farmer Market Jababeka Cikarang
-- [ ] Salah input stok pulang tanggal 12 februari diinput: `HTE530S3 = 95 PCs` seharusnya: `HTE530S3 = 5 PCs`
+- [x] Salah input stok pulang tanggal 12 februari diinput: `HTE530S3 = 95 PCs` seharusnya: `HTE530S3 = 5 PCs`
 
 ## 11. Yogya Junction Cirebon
 - [ ] Stok awal februari pada modul `Monthly Report` kosong, padahan SO sudah dipilih sari daily stock.
