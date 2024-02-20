@@ -43,3 +43,6 @@
 
 ### 14. Foodhall Pondok Indah
 - [x] SJ tanggal 7 februai diinput tanggal 9 feb 107 PCs dan tanggal 16 feb 225 PCs
+
+### 15. Hypermart AR Hakim surabaya
+- [ ] Return februari antara J-Stock dan eERP berbeda.
