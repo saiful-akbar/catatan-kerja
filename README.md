@@ -1,7 +1,7 @@
 # Qty minus (-) pada eslimasi sales J-Stock
 
 ### 1. Ranch Market Living World
-- SJ tanggal 5 baru diinput tanggal 12 di J-Stock
+- [X] SJ tanggal 5 baru diinput tanggal 12 di J-Stock
 
 ## 2. Ranch Market Pondok Indah
 - [x] Daily stock tanggal 1 merupakan stok milik toko `Diamon Point Square`
