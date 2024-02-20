@@ -24,7 +24,7 @@
 - [X] Untuk return tanggal 6 dengan qty 116 PCs barang diambil bulan januari.
 
 ### 8. Hero Alaudin Makasar
-- [ ] Return bulan januari di input tanggal 4 februari.
+- [x] Return bulan januari di input tanggal 4 februari.
 
 ### 9. Farmer Market Makasar Pettarani Square
 - [x] Return yang diterima tanggal 30 januari di gudang di input tanggal 1, 2, 9 & 13 februari (4x input)
