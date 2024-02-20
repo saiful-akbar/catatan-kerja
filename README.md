@@ -39,7 +39,7 @@
 - [ ] SJ yang dikirim tanggal 126 PCs belum diinput di J-Stock
 
 ### 13. Hero Pasir Kaliki
-- [ ] SJ tanggal 6 februari belum di input di store
+- [ ] SJ tanggal 6 februari baru diinput tanggal 15 februari.
 
 ### 14. Foodhall Pondok Indah
-- [ ] SJ tanggal 7 februai diinput tanggal 9 feb 107 PCs dan tanggal 16 feb 225 PCs
+- [x] SJ tanggal 7 februai diinput tanggal 9 feb 107 PCs dan tanggal 16 feb 225 PCs
