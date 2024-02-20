@@ -36,7 +36,7 @@
 - [ ] Stok awal februari pada modul `Monthly Report` kosong, padahan SO sudah dipilih sari daily stock.
 
 ### 12. Farmer Market Palembang
-- [ ] SJ yang dikirim tanggal 126 PCs belum diinput di J-Stock
+- [ ] SJ yang dikirim tanggal 30 januari sebanyak 126 PCs belum diinput di J-Stock.
 
 ### 13. Hero Pasir Kaliki
 - [ ] SJ tanggal 6 februari baru diinput tanggal 15 februari.
