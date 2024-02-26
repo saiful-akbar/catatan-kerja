@@ -19,7 +19,6 @@
 - [x] SA salah pilih toko saat input SJ. Toko yang di pilih: `The Foodhall PIK` Seharusnya: `The Foodhall PIK 2`
 
 ### 7. Carrefour Trans Studio Makasar
-- [X] SA belum input SJ yang diterima bulan februari.
 - [x] SA double input return pada tanggal 5 dan 6 februari.
 - [X] Untuk return tanggal 6 dengan qty 116 PCs barang diambil bulan januari.
 
