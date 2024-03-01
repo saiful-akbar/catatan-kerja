@@ -17,3 +17,8 @@
 
 ### Ranch Market PIM3 (23-02-2024)
 - [ ] Ada return TBAT tanggal 15 februari yang belum dibuat administrasi eERP.
+
+# SO Awal Maret
+
+### Ranch Market Elvee Karawaci
+- Stok pulang tanggal 29 februari kosong.
