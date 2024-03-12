@@ -9,3 +9,7 @@
 - [ ] **Farmer Market Family Buaran**
 	- Qty: -100
 	- Periode: 01-06 Maret 2024
+
+- [ ] **Hypermart Kairagi Manado**
+	- Qty: -476
+	- Periode: 01-06 Maret 2024
