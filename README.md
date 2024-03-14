@@ -18,3 +18,8 @@
 	- Item: HPL817CT
 	- Qty: -13
 	- Periode SO: 01-11 Maret 2024
+
+- [ ] **Foodhall Pondok Indah Mall**
+	- Qty: 203
+	- Periode: 07 Maret 2024
+	- Prihal: SJ di input di Stock Pulang.
