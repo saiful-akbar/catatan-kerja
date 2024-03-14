@@ -23,3 +23,12 @@
 	- Qty: 203
 	- Periode: 07 Maret 2024
 	- Prihal: SJ di input di Stock Pulang.
+
+## Pengajuan Closing Store
+
+- [ ] **Ranch Market Basuki Rahmat Surabaya**
+
+## Laporan Maximum Stock
+
+- Lokasi directory: `Z:\Consignment 2\2024\Report Consignment\04. Maximum Stock`
+- Nama File: `00. DATA MAX. STOCK UPDATE.xlsx`
