@@ -1,34 +1,21 @@
-# Catatan
+## Laporan Bulanan
 
-## Qty minus pada sales estimasi Maret 2024
+- Banding stok fisik dengan data
+	- Selalu update di group jika ada toko yang belum input stock awal.
+	- Maksimal revisi sampai dengan tanggal 10 atau 15.
+	- Laporkan data selisih stok toko ke bu elisa dalam bentuk hard copy.
 
-- [ ] **Carrefour Transmart Kawanua Manado**
-	- Total Qty: -89
-	- Periode: 01-07 Maret 2024
+- Laporan sales stok kosong
+	- Ambil periode sales dalam 3 bulan terakhir.
+	- Ambi stok terupdate awal bulan.
 
-- [ ] **Farmer Market Family Buaran**
-	- Total Qty: -100
-	- Periode: 01-06 Maret 2024
+## Laporan mingguan
 
-- [ ] **Hypermart Kairagi Manado**
-	- Total Qty: -476
-	- Periode: 01-06 Maret 2024
+- Laporan maximum stock
+	- Banding maximum stok dengan stok awal bulan terupdate.
 
-- [ ] **Mutiara Super Kitchen Ujung Berung**
-	- Item: HPL817CT
-	- Qty: -13
-	- Periode SO: 01-11 Maret 2024
+## Todo List 20 Maret 2024
 
-- [ ] **Foodhall Pondok Indah Mall**
-	- Qty: 203
-	- Periode: 07 Maret 2024
-	- Prihal: SJ di input di Stock Pulang.
-
-## Pengajuan Closing Store
-
-- [ ] **Ranch Market Basuki Rahmat Surabaya**
-
-## Laporan Maximum Stock
-
-- Lokasi directory: `Z:\Consignment 2\2024\Report Consignment\04. Maximum Stock`
-- Nama File: `00. DATA MAX. STOCK UPDATE.xlsx`
+- [ ] Buat data pengajuan closing store untuk `Ranch Market Basuki Rahmat Surabaya`
+- [ ] Tarik data estimasi sales harian.
+- [ ] Update stok harian.
