@@ -19,3 +19,8 @@
 - [ ] Buat data pengajuan closing store untuk `Ranch Market Basuki Rahmat Surabaya`
 - [ ] Tarik data estimasi sales harian.
 - [ ] Update stok harian.
+
+## Estimasi sales dengan Qty minus (-)
+
+- [ ] Hypermart kairagi manado
+	- Kedatangan barang (SJ) sudah masuk hitungan stok pada tanggal 20 maret, tetapi SJ baru input ddi J-Stok tanggal 21 maret
