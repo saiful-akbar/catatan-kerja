@@ -7,7 +7,14 @@
 
 - Laporan sales stok kosong
 	- Ambil periode sales dalam 3 bulan terakhir.
-	- Ambi stok terupdate awal bulan.
+	- Buat 2 versi berdasarkan stok awal bulan dan stock terakhir (Last stock).
+	- Tambahkan data typologi store, group store, max stock & stock gudang dari data SPC (deni) sebagai pembanding.
+	- Laporan paling lambat tanggal 20. 
+
+- Laporan selisih stok
+	- Buat data selisih paling lambat H+2 setelah closing sales.
+	- Print summary dan store dengan selisih tinggi.
+	- Laporan data selisih paling lambat tanggal 20.
 
 ## Laporan mingguan
 
