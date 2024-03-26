@@ -9,6 +9,7 @@
 	- Ambil periode sales dalam 3 bulan terakhir.
 	- Buat 2 versi berdasarkan stok awal bulan dan stock terakhir (Last stock).
 	- Tambahkan data typologi store, group store, max stock & stock gudang dari data SPC (deni) sebagai pembanding.
+	- Buat data selisih paling lambat H+4 setelah closing sales.
 	- Laporan paling lambat tanggal 20. 
 
 - Laporan selisih stok
@@ -20,12 +21,6 @@
 
 - Laporan maximum stock
 	- Banding maximum stok dengan stok awal bulan terupdate.
-
-## Todo List 20 Maret 2024
-
-- [ ] Buat data pengajuan closing store untuk `Ranch Market Basuki Rahmat Surabaya`
-- [ ] Tarik data estimasi sales harian.
-- [ ] Update stok harian.
 
 ## Estimasi sales dengan Qty minus (-)
 
