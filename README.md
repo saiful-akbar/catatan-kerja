@@ -1,7 +1,7 @@
 ## Todo List 01 April 2024
-- [ ] Pilih Stock awal april dari daily stock tanggal 31 maret (J-Stock).
-- [ ] Tarik dan input estimasi sales periode 01 - 31 maret.
-- [ ] Buat data stock opname awal bulan maret per PT untuk pak dewa.
+- [x] Pilih Stock awal april dari daily stock tanggal 31 maret (J-Stock).
+- [x] Tarik dan input estimasi sales periode 01 - 31 maret.
+- [x] Buat data stock opname awal bulan maret per PT untuk pak dewa.
 - [ ] Update mutasi (SJ, Sales & Return) di monitoring toko.
 - [ ] Buat template untuk laporan bulanan.
 
@@ -17,7 +17,7 @@
 	- Buat 2 versi berdasarkan stok awal bulan dan stock terakhir (Last stock).
 	- Tambahkan data typologi store, group store, max stock & stock gudang dari data SPC (deni) sebagai pembanding.
 	- Buat data selisih paling lambat H+4 setelah closing sales.
-	- Laporan paling lambat tanggal 20. 
+	- Laporan paling lambat tanggal 20.
 
 - Laporan selisih stok
 	- Buat data selisih paling lambat H+2 setelah closing sales.
@@ -38,4 +38,5 @@
 
 - Ranch market taman anggrek residence
 	- [ ] Di J-Stock SJ tanggal 25 maret belum di input.
-	- [x] SJ akan di input tanggal 26 maret.
+	- [ ] SJ akan di input tanggal 26 maret.
+	- [ ] SJ yang diinput tanggal 26 maret hanya **LHC4247IVY** sebanyak **1 PCs**
