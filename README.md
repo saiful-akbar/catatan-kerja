@@ -3,6 +3,7 @@
 - [ ] Tarik dan input estimasi sales periode 01 - 31 maret.
 - [ ] Buat data stock opname awal bulan maret per PT untuk pak dewa.
 - [ ] Update mutasi (SJ, Sales & Return) di monitoring toko.
+- [ ] Buat template untuk laporan bulanan.
 
 ## Laporan Bulanan
 
