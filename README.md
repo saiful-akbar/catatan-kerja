@@ -1,3 +1,8 @@
+## Todo List 01 April 2024
+- [ ] Pilih Stock awal april dari daily stock tanggal 31 maret (J-Stock).
+- [ ] Tarik dan input estimasi sales periode 01 - 31 maret.
+- [ ] Buat data stock opname awal bulan maret per PT untuk pak dewa.
+
 ## Laporan Bulanan
 
 - Banding stok fisik dengan data
@@ -24,5 +29,11 @@
 
 ## Estimasi sales dengan Qty minus (-)
 
-- [ ] Hypermart kairagi manado
-	- Kedatangan barang (SJ) sudah masuk hitungan stok pada tanggal 20 maret, tetapi SJ baru input ddi J-Stok tanggal 21 maret
+- [x] Hypermart kairagi manado
+	- Kedatangan barang (SJ) sudah masuk hitungan stok pada tanggal 20 maret, tetapi SJ baru input ddi J-Stok tanggal 21 maret.
+
+## Masalah
+
+- Ranch market taman anggrek residence
+	- [ ] Di J-Stock SJ tanggal 25 maret belum di input.
+	- [x] SJ akan di input tanggal 26 maret.
