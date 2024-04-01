@@ -2,6 +2,7 @@
 - [ ] Pilih Stock awal april dari daily stock tanggal 31 maret (J-Stock).
 - [ ] Tarik dan input estimasi sales periode 01 - 31 maret.
 - [ ] Buat data stock opname awal bulan maret per PT untuk pak dewa.
+- [ ] Update mutasi (SJ, Sales & Return) di monitoring toko.
 
 ## Laporan Bulanan
 
