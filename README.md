@@ -41,13 +41,13 @@
 ## Stock Awal April Kosong
 
 - Jabodetabek
-	- [ ] Lottemart kelapa gading
-	- [ ] Carrefour transmart cijantung
-	- [ ] Carrefour transmart x mall kalimalang
-	- [ ] Foodhall sumarecon mall bekasi
-	- [ ] Farmer market family pondok kopi
-	- [ ] Farmer market kota harapan indah
-	- [ ] Hypermart yasmin bogor
+	- Lottemart kelapa gading
+	- Carrefour transmart cijantung
+	- Carrefour transmart x mall kalimalang
+	- Foodhall sumarecon mall bekasi
+	- Farmer market family pondok kopi
+	- Farmer market kota harapan indah
+	- Hypermart yasmin bogor
 
 - Special Region
-	- [ ] Lottemart the park solo
+	- Lottemart the park solo
