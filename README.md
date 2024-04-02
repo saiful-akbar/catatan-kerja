@@ -1,7 +1,4 @@
 ## Todo List 01 April 2024
-- [x] Pilih Stock awal april dari daily stock tanggal 31 maret (J-Stock).
-- [x] Tarik dan input estimasi sales periode 01 - 31 maret.
-- [x] Buat data stock opname awal bulan maret per PT untuk pak dewa.
 - [ ] Update mutasi (SJ, Sales & Return) di monitoring toko.
 - [ ] Buat template untuk laporan bulanan.
 
@@ -29,11 +26,6 @@
 - Laporan maximum stock
 	- Banding maximum stok dengan stok awal bulan terupdate.
 
-## Estimasi sales dengan Qty minus (-)
-
-- [x] Hypermart kairagi manado
-	- Kedatangan barang (SJ) sudah masuk hitungan stok pada tanggal 20 maret, tetapi SJ baru input ddi J-Stok tanggal 21 maret.
-
 ## Masalah
 
 - Ranch market taman anggrek residence
@@ -45,3 +37,17 @@
 	- Return TBAT closing store ke Transmart Icon akhir bulan maret.
 	- Dikarenakan weekend administrasi eERP baru dibuat tanggal 1 april.
 	- Dalam berita acara administrasi yang mengikuti fisik atau sebaliknya?
+
+## Stock Awal April Kosong
+
+- Jabodetabek
+	- [ ] Lottemart kelapa gading
+	- [ ] Carrefour transmart cijantung
+	- [ ] Carrefour transmart x mall kalimalang
+	- [ ] Foodhall sumarecon mall bekasi
+	- [ ] Farmer market family pondok kopi
+	- [ ] Farmer market kota harapan indah
+	- [ ] Hypermart yasmin bogor
+
+- Special Region
+	- [ ] Lottemart the park solo
