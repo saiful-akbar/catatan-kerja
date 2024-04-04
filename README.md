@@ -1,6 +1,8 @@
-## Todo List 01 April 2024
-- [ ] Update mutasi (SJ, Sales & Return) di monitoring toko.
-- [ ] Buat template untuk laporan bulanan.
+## Todo List 04 April 2024
+- [ ] Input SJ, Sales & Return store bulan maret dan april.
+- [ ] Input SO Feelbuy Shop
+- [ ] Input tanda terima shopping bag Feelbuy Shop.
+- [ ] Update laporan mingguan.
 
 ## Laporan Bulanan
 
