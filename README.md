@@ -1,15 +1,4 @@
-## Todo List 04 April 2024
-- [ ] Input SJ, Sales & Return store bulan maret dan april.
-- [ ] Input SO Feelbuy Shop
-- [ ] Input tanda terima shopping bag Feelbuy Shop.
-- [ ] Update laporan mingguan.
-
 ## Laporan Bulanan
-
-- Banding stok fisik dengan data
-	- Selalu update di group jika ada toko yang belum input stock awal.
-	- Maksimal revisi sampai dengan tanggal 10 atau 15.
-	- Laporkan data selisih stok toko ke bu elisa dalam bentuk hard copy.
 
 - Laporan sales stok kosong
 	- Ambil periode sales dalam 3 bulan terakhir.
@@ -18,10 +7,15 @@
 	- Buat data selisih paling lambat `H + 4` setelah closing sales.
 	- Laporan paling lambat tanggal 20.
 
-- Laporan selisih stok
+- Laporan selisih stok beserta net amount (Gross * 1.11 %)
 	- Buat data selisih paling lambat `H + 2` setelah closing sales.
 	- Print summary dan store dengan selisih tinggi.
 	- Laporan data selisih paling lambat tanggal 20.
+
+- Laporan item yang tidak ada penjualan.
+	- Buat laporan bulanan dan per 3 bulan (kuartal).
+
+- Laporan item barang rusak vs sales bulanan dan per 3 bulan.
 
 ## Laporan mingguan
 
