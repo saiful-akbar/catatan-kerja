@@ -1,3 +1,5 @@
+# Laporan
+
 ## Laporan Bulanan
 
 - Laporan sales stok kosong
@@ -22,49 +24,9 @@
 - Laporan maximum stock
 	- Banding maximum stok dengan stok awal bulan terupdate.
 
-## Masalah
+# Masalah
 
 - Ranch Market Basuki Rahmat Surabaya
 	- Return TBAT closing store ke Transmart Icon akhir bulan maret.
 	- Dikarenakan weekend administrasi eERP baru dibuat tanggal 1 april.
 	- Dalam berita acara administrasi yang mengikuti fisik atau sebaliknya?
-
-## Stock Awal April Kosong
-
-- Jabodetabek
-	- [x] Lottemart kelapa gading `(SO 02 april 2024)`
-	- [ ] Carrefour transmart cijantung
-	- [ ] Carrefour transmart x mall kalimalang
-	- [ ] Foodhall sumarecon mall bekasi
-	- [ ] Farmer market family pondok kopi
-	- [ ] Farmer market kota harapan indah
-	- [ ] Hypermart yasmin bogor
-	- [ ] Farmer Market Family Pondok Kopi
-	- [ ] Farmer Market Living World Pekan Baru
-
-- Special Region
-	- [ ] Lottemart the park solo
-	- [ ] Carrefour Daun Village Balikpapan
-	- [ ] Carrefour Transmart Setiabudi Semarang
-	- [ ] Carrefour Transmart Solo pabelan
-	- [ ] Carrefour Transpark Bali
-	- [ ] Griya Taman Kopo
-	- [ ] Yogya Grand Cirebon
-	- [ ] Foodmart Lembuswana Samarinda `(Tidak ada SA)`
-	- [ ] Hypermart Big Mall Samarinda `(Tidak ada SA)`
-	- [ ] Hypermart Paragon Semarang `(Tidak ada SA)`
-
-- New Store
-	- [ ] Transmart Kediri
-	- [ ] Transmart pekalongan
-	- [ ] Transmart Tasikmalaya
-	- [ ] Yogya HZ Tasikmalaya
-	- [ ] Yogya Mitra Batik Tasikmalaya
-	- [ ] Yogya Pekalongan
-	- [ ] Diamond Palembang
-	- [ ] Foodmart Beacwalk Bali
-	- [ ] Foodmart Primo Kuala Kencana
-	- [ ] Foodmart Primo Ridge Camp
-	- [ ] Foodmart Primo Tembagapura
-	- [ ] Hypermart Abepura
-	- [ ] Hypermart Jayapura
