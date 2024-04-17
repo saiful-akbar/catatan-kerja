@@ -18,6 +18,7 @@
 	- Buat laporan bulanan dan per 3 bulan (kuartal).
 
 - Laporan item barang rusak vs sales bulanan dan per 3 bulan.
+  	- Buat laporan bulanan dan per 3 bulan (kuartal).
 
 ## Laporan mingguan
 
