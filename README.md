@@ -25,9 +25,16 @@
 - Laporan maximum stock
 	- Banding maximum stok dengan stok awal bulan terupdate.
 
-# Masalah
+- Laporan monitoring stok untuk SPC.
 
-- Ranch Market Basuki Rahmat Surabaya
-	- Return TBAT closing store ke Transmart Icon akhir bulan maret.
-	- Dikarenakan weekend administrasi eERP baru dibuat tanggal 1 april.
-	- Dalam berita acara administrasi yang mengikuti fisik atau sebaliknya?
+# Todo List
+
+## 18 April 2024
+
+- [ ] Ambil data estimasi sales
+- [ ] Input daily stok
+- [ ] Periksa estimasi sales minus (-)
+- [ ] Periksa SJ yang belum diinput di J-Stock
+- [ ] Periksa Return yang belum di input di J-Stock
+- [ ] Input daily stock april di monitoring
+- [ ] Buat summary maret 2024
