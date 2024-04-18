@@ -29,7 +29,7 @@
 
 # 2. Todo List
 
-## 2.2 18 April 2024
+## 2.2. 18 April 2024
 
 - [ ] Ambil data estimasi sales
 - [ ] Input daily stok
