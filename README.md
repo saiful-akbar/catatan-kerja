@@ -1,6 +1,6 @@
-# Laporan
+# 1. Laporan
 
-## Laporan Bulanan
+## 1.1. Laporan Bulanan
 
 - Laporan sales stok kosong
 	- Ambil periode sales dalam 3 bulan terakhir.
@@ -20,16 +20,16 @@
 - Laporan item barang rusak vs sales bulanan dan per 3 bulan.
   	- Buat laporan bulanan dan per 3 bulan (kuartal).
 
-## Laporan mingguan
+## 1.2. Laporan mingguan
 
 - Laporan maximum stock
 	- Banding maximum stok dengan stok awal bulan terupdate.
 
 - Laporan monitoring stok untuk SPC.
 
-# Todo List
+# 2. Todo List
 
-## 18 April 2024
+## 2.2 18 April 2024
 
 - [ ] Ambil data estimasi sales
 - [ ] Input daily stok
