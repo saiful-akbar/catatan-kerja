@@ -1,40 +1,42 @@
-# 1. Laporan
+# Laporan
 
-## 1.1. Laporan Bulanan
+## Laporan 3 Bulanan (Kuartal)
 
-- Laporan sales stok kosong
-	- Ambil periode sales dalam 3 bulan terakhir.
-	- Buat 2 versi berdasarkan stok awal bulan dan stock terakhir (Last stock).
-	- Tambahkan data typologi store, group store, max stock & stock gudang dari data SPC (deni) sebagai pembanding.
-	- Buat data selisih paling lambat `H + 4` setelah closing sales.
-	- Laporan paling lambat tanggal 20.
+- Laporan item no sales
+	- untuk melihat sisa stok di toko dan digudang untuk item yang tidak terjual selama 3 bulan terakhir
+	- laporan paling lambat H+2 setelah closing sales
+
+- Laporan return vs sales.
+  - Banding data return 50% dan barang rusak selama 3 bulan terakhir dengan sales
+  - buat presentasi dengan rumus (barang rusak / sales)
+  - laporan paling lambar H+2 setelan closing sales
+
+## Laporan Bulanan
+
+- Laporan item no sales
+	- untuk melihat sisa stok di toko dan digudang untuk item yang tidak terjual selama 3 bulan terakhir.
+	- laporan paling lambat H+2 setelah closing sales.
+
+- Laporan return vs sales.
+  - Banding data return 50% dan barang rusak selama 3 bulan terakhir dengan sales.
+  - buat presentasi dengan rumus (barang rusak / sales).
+  - laporan paling lambar H+2 setelan closing sales.
 
 - Laporan selisih stok beserta net amount (Gross * 1.11 %)
-	- Buat data selisih paling lambat `H + 2` setelah closing sales.
-	- Print summary dan store dengan selisih tinggi.
-	- Laporan data selisih paling lambat tanggal 20.
+	- Laporan paling lambat tanggal 20.
 
-- Laporan item yang tidak ada penjualan.
-	- Buat laporan bulanan dan per 3 bulan (kuartal).
+## Laporan Mingguan
 
-- Laporan item barang rusak vs sales bulanan dan per 3 bulan.
-  	- Buat laporan bulanan dan per 3 bulan (kuartal).
+- Laporan selisih stok mingguan
+	- Share laporan di group consignment setiap hari senin.
+	- Periode week jum'at s/d kamis.
 
-## 1.2. Laporan mingguan
+- Lpoaran item discontinue
+	- Untuk melihat apakah masih ada stok di toko untuk item yang discontinue.
 
-- Laporan maximum stock
-	- Banding maximum stok dengan stok awal bulan terupdate.
+## Laporan Lainnya
 
-- Laporan monitoring stok untuk SPC.
+- Laporan stok item promo
+	- untuk melihat estimasi sales item yang di promo ada penjualan atau tidak.
+	- Periode laporan sesuai dengan periode promo.
 
-# 2. Todo List
-
-## 2.2. 18 April 2024
-
-- [ ] Ambil data estimasi sales
-- [ ] Input daily stok
-- [ ] Periksa estimasi sales minus (-)
-- [ ] Periksa SJ yang belum diinput di J-Stock
-- [ ] Periksa Return yang belum di input di J-Stock
-- [ ] Input daily stock april di monitoring
-- [ ] Buat summary maret 2024
