@@ -32,7 +32,7 @@
 	- Share laporan di group consignment setiap hari senin.
 	- Periode week jum'at s/d kamis.
 
-- Lpoaran item discontinue
+- **Lpoaran item discontinue**
 	- Untuk melihat apakah masih ada stok di toko untuk item yang discontinue.
 
 ## Laporan Lainnya
@@ -41,3 +41,16 @@
 	- untuk melihat estimasi sales item yang di promo ada penjualan atau tidak.
 	- Periode laporan sesuai dengan periode promo.
 
+# Daftar Promo
+
+- **26 - 28 April 2024**
+	- **Area**: Hypermart & Foodmart ALL Store
+	- **Promo**: Disc 30 % All Item
+	- **Periode**: 26 - 28 April 2024
+	- **Durasi**: 03 Hari
+
+- **22 - 28 April 2024**
+	- **Area**: Ranch & Farmer All Store
+	- **Promo**: Promo Disc 30% Selected Item
+	- **Periode**: 22 - 28 APRIL 2024
+	- **Durasi**: 07 Hari
