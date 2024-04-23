@@ -1,6 +1,6 @@
-# Laporan
+# 1. Laporan
 
-## Laporan 3 Bulanan (Kuartal)
+## 1.1. Laporan 3 Bulanan (Kuartal)
 
 - **Laporan item no sales**
 	- untuk melihat sisa stok di toko dan digudang untuk item yang tidak terjual selama 3 bulan terakhir
@@ -11,7 +11,7 @@
   - buat presentasi dengan rumus (barang rusak / sales)
   - laporan paling lambar H+2 setelan closing sales
 
-## Laporan Bulanan
+## 1.2. Laporan Bulanan
 
 - **Laporan item no sales**
 	- untuk melihat sisa stok di toko dan digudang untuk item yang tidak terjual selama 3 bulan terakhir.
@@ -26,7 +26,7 @@
 	- Laporan paling lambat tanggal 20.
 	- Rumus pengambilan net amount (Gross value * 1.11 %)
 
-## Laporan Mingguan
+## 1.3. Laporan Mingguan
 
 - **Laporan selisih stok mingguan**
 	- Share laporan di group consignment setiap hari senin.
@@ -35,13 +35,13 @@
 - **Lpoaran item discontinue**
 	- Untuk melihat apakah masih ada stok di toko untuk item yang discontinue.
 
-## Laporan Lainnya
+## 1.4. Laporan Lainnya
 
 - **Laporan stok item promo**
 	- untuk melihat estimasi sales item yang di promo ada penjualan atau tidak.
 	- Periode laporan sesuai dengan periode promo.
 
-# Daftar Promo
+# 2. Daftar Promo
 
 - **26 - 28 April 2024**
 	- **Area**: Hypermart & Foodmart All Store
