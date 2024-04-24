@@ -24,14 +24,14 @@
 
 ## 2. Daftar Promo
 
-- **26 - 28 April 2024**
-	- **Area**: Hypermart & Foodmart All Store
-	- **Promo**: Disc 30 % All Item
-	- **Periode**: 26 - 28 April 2024
-	- **Durasi**: 03 Hari
-
 - **22 - 28 April 2024**
 	- **Area**: Ranch & Farmer All Store
 	- **Promo**: Disc 30% Selected Item
 	- **Periode**: 22 - 28 April 2024
 	- **Durasi**: 07 Hari
+
+- **26 - 28 April 2024**
+	- **Area**: Hypermart & Foodmart All Store
+	- **Promo**: Disc 30 % All Item
+	- **Periode**: 26 - 28 April 2024
+	- **Durasi**: 03 Hari
