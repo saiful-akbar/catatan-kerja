@@ -35,3 +35,13 @@
 	- **Promo**: Disc 30 % All Item
 	- **Periode**: 26 - 28 April 2024
 	- **Durasi**: 03 Hari
+
+# 3. Todo List
+
+- **25 April 2024**
+	- [ ] Ambil data dan periksa estimasi sales dari J-Stock.
+	- [ ] Input mutasi store bulan april.
+	- [ ] Periksa retun yang belum diinput di J-Stock.
+	- [ ] Buat data laporan selisih stok untk bulan Januari dan Februari.
+	- [ ] Tambahkan kolom `Actual` dan `Diff` per weekly pada laporan migguan.
+	
