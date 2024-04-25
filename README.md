@@ -36,7 +36,7 @@
 	- **Periode**: 26 - 28 April 2024
 	- **Durasi**: 03 Hari
 
-# 3. Todo List
+## 3. Todo List
 
 - **25 April 2024**
 	- [ ] Ambil data dan periksa estimasi sales dari J-Stock.
