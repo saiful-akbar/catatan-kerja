@@ -1,47 +1,15 @@
-## 1. Laporan
+# REPORT CONTROLLER
 
-- **Laporan item no sales (bulanan & per 3 bulan)**
-	- untuk melihat sisa stok di toko dan digudang untuk item yang tidak terjual selama 3 bulan terakhir
-	- laporan paling lambat H+2 setelah closing sales
+## Reporting Stock Control
 
-- **Laporan return vs sales (bulanan & per 3 bulan)**
-  - Banding data return 50% dan barang rusak selama 3 bulan terakhir dengan sales
-  - buat presentasi dengan rumus (barang rusak / sales)
-  - laporan paling lambar H+2 setelan closing sales
+- Stock by Divisi (Summary)
+- Stock by Divisi per Area
+- Stock gudang pusat (Gudang)
+- Data item tidak terjual (per 3 bulan)
+- Data barang kosong
+- Data return vs sales per divisi, per area
+- Data item rusak (Gudang)
+- Data item dead stock (Gudang)
+- Data item discontined yang masih ada ditoko
 
-- **Laporan selisih stok (mingguan)**
-	- Share laporan di group consignment setiap hari senin.
-	- Periode week jum'at s/d kamis.
-
-- **Laporan stok item promo (after promo)**
-	- untuk melihat estimasi sales item yang di promo ada penjualan atau tidak.
-	- Periode laporan sesuai dengan periode promo.
-
-- **Laporan selisih stok/stok opname (bulanan)**
-	- Laporan paling lambat tanggal 20.
-	- Rumus pengambilan net amount (Gross value * 1.11 %)
-
-
-## 2. Daftar Promo
-
-- **22 - 28 April 2024**
-	- **Area**: Ranch & Farmer All Store
-	- **Promo**: Disc 30% Selected Item
-	- **Periode**: 22 - 28 April 2024
-	- **Durasi**: 07 Hari
-
-- **26 - 28 April 2024**
-	- **Area**: Hypermart & Foodmart All Store
-	- **Promo**: Disc 30 % All Item
-	- **Periode**: 26 - 28 April 2024
-	- **Durasi**: 03 Hari
-
-## 3. Todo List
-
-- **25 April 2024**
-	- [ ] Ambil data dan periksa estimasi sales dari J-Stock.
-	- [ ] Input mutasi store bulan april.
-	- [ ] Periksa retun yang belum diinput di J-Stock.
-	- [ ] Buat data laporan selisih stok untk bulan Januari dan Februari.
-	- [ ] Tambahkan kolom `Actual` dan `Diff` per weekly pada laporan migguan.
-	
+Dibuat dari bulan januari 2024 s/d maret 2024.
