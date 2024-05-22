@@ -61,3 +61,49 @@ hdjabodetabek1@feelbuy.co.id
 hdjabodetabek2@feelbuy.co.id
 aryo_suharyono@feelbuy.co.id
 auditstockfeelbuy@gmail.com
+
+# Meeting Monitoring (Mei 2024)
+
+- Daily
+
+	- Banding schedule SA dengan hasil SO dari J-Stock (jika ada masalah langsung tanyakan dengan SPC atau Controller)
+	- Tarik eslimasi sales
+	- Input mutasi store
+	- Input daily SO
+	- Cek SJ dan Return di J-Stock dengan eERP 
+
+- Monthly
+
+	- Laporan monitoring dikirim via email ke SPC marketing dan cc ke ibu elisa, pak aryo, mrs ha dan mr lukas.
+		
+		- Untuk lottemart dan carrefour kirim laporan secepatnya setelah closing sales.
+		- Kirim semua monitoring toko paling lambat tanggal 15.
+
+		TO:
+		specialregion@feelbuy.co.id
+		jabodetabek@feelbuy.co.id
+
+		CC:
+		ksha@feelbuy.co.id
+		jktlsh5978@hotmail.com
+		elisa@feelbuy.co.id
+		hdspesialregion@feelbuy.co.id
+		hdjabodetabek1@feelbuy.co.id
+		hdjabodetabek2@feelbuy.co.id
+		aryo_suharyono@feelbuy.co.id
+		auditstockfeelbuy@gmail.com
+
+	- Buat buka tanda terima untuk revisi stok.
+		
+		- Untuk lampiran item atau gambar disimpan di `Z:\Stock Control\2024\Lampiran Perubahan Stock\{bulan}\{tanggal}`
+
+# Closing Sales
+
+- Lottemart
+	- Sales daily
+	- Data bisa ditarik H+2
+
+- Carrefour
+	- Sales weekly (senin - selasa)
+	- Pengerjaan di adm sales hari rabu
+	- Data bisa diambil hari kamis
